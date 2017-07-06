@@ -1,5 +1,5 @@
 # Change these
-server '178.62.88.94', port: 7171, roles: [:web, :app, :db], primary: true
+server '172.31.41.136', port: 7171, roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'git@github.com:sheharyarn/testapp_rails.git'
 set :application,     'testapp'
